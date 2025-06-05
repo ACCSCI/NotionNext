@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'ACCSCI',
   HEO_HERO_TITLE_4: '加速科学',
-  HEO_HERO_TITLE_5: '做自己人生的主人',
+  HEO_HERO_TITLE_5: '做自己生活的主人',
   HEO_HERO_TITLE_LINK: 'https://accsci.github.io/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
